@@ -17,7 +17,7 @@
             <param name="ConversionPattern" value="[%d{dd.MM.yyyy HH:mm:ss,SSS}] [%t] %-5p %c - %m%n"/>
         </layout>
     </appender>
-    <logger name="by.bsu">
+    <logger name="com.my.buch">
         <level value="debug" />
     </logger>
     <root>
