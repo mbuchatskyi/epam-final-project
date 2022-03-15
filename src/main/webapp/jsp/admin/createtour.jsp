@@ -26,8 +26,7 @@
     <div class="reg"> <br>
     <span style="text-align: center;">
     <h2>Here you can create new tour </h2>
-    </span>
-   <br>
+    </span> <br>
     <form id="registerform" style="width: 300px; margin: 0 auto" method="post" action="welcome">
         <input type="hidden" name="command" value="create_tour" />
         <div class="form-group">

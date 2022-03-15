@@ -17,7 +17,6 @@
 		aria-expanded="false" aria-label="Toggle navigation">
 		<span class="navbar-toggler-icon"></span>
 	</button>
-	
 	<div class="collapse navbar-collapse" id="navbarNavAltMarkup">
 		<div class="navbar-nav">
 			<a class="nav-item nav-link active" href="welcome?command=tour_list">Tour List<span
@@ -50,16 +49,11 @@
 							<a class="nav-item nav-link" href="welcome?command=logout">Log out</a>
 						</c:otherwise>
 					</c:choose>	
-
 				</c:otherwise>
-				
-				
 			</c:choose>
-			
 		</div>
 	</div>
 </nav>
-
 <hr class="reg">
 </body>
 

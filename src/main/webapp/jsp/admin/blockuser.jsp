@@ -29,7 +29,6 @@
 		<form id="registerform" style="width: 300px; margin: 0 auto"
 			method="post" action="welcome">
 			<input type="hidden" name="command" value="block_user" />
-
 			<div class="form-group">
 				<label class="control-label" for="name">Please, enter user
 					login you want to ban</label>
@@ -55,7 +54,6 @@
 					user</button>
 			</div>
 		</form>
-
 		<div class="reg">
 			<br> <span style="text-align: center;">
 				<h2>Here you can unblock user</h2>
